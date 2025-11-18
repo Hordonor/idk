@@ -1,0 +1,14 @@
+C:\Users\FSOS\source\repos\lb5\lb5\bin\Debug\net8.0\lb5.exe
+C:\Users\FSOS\source\repos\lb5\lb5\bin\Debug\net8.0\lb5.deps.json
+C:\Users\FSOS\source\repos\lb5\lb5\bin\Debug\net8.0\lb5.runtimeconfig.json
+C:\Users\FSOS\source\repos\lb5\lb5\bin\Debug\net8.0\lb5.dll
+C:\Users\FSOS\source\repos\lb5\lb5\bin\Debug\net8.0\lb5.pdb
+C:\Users\FSOS\source\repos\lb5\lb5\obj\Debug\net8.0\lb5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSOS\source\repos\lb5\lb5\obj\Debug\net8.0\lb5.AssemblyInfoInputs.cache
+C:\Users\FSOS\source\repos\lb5\lb5\obj\Debug\net8.0\lb5.AssemblyInfo.cs
+C:\Users\FSOS\source\repos\lb5\lb5\obj\Debug\net8.0\lb5.csproj.CoreCompileInputs.cache
+C:\Users\FSOS\source\repos\lb5\lb5\obj\Debug\net8.0\lb5.dll
+C:\Users\FSOS\source\repos\lb5\lb5\obj\Debug\net8.0\refint\lb5.dll
+C:\Users\FSOS\source\repos\lb5\lb5\obj\Debug\net8.0\lb5.pdb
+C:\Users\FSOS\source\repos\lb5\lb5\obj\Debug\net8.0\lb5.genruntimeconfig.cache
+C:\Users\FSOS\source\repos\lb5\lb5\obj\Debug\net8.0\ref\lb5.dll
