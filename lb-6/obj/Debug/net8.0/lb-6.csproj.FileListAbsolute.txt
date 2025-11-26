@@ -1,0 +1,15 @@
+C:\Users\FSOS\source\repos\lb-6\lb-6\bin\Debug\net8.0\lb-6.exe
+C:\Users\FSOS\source\repos\lb-6\lb-6\bin\Debug\net8.0\lb-6.deps.json
+C:\Users\FSOS\source\repos\lb-6\lb-6\bin\Debug\net8.0\lb-6.runtimeconfig.json
+C:\Users\FSOS\source\repos\lb-6\lb-6\bin\Debug\net8.0\lb-6.dll
+C:\Users\FSOS\source\repos\lb-6\lb-6\bin\Debug\net8.0\lb-6.pdb
+C:\Users\FSOS\source\repos\lb-6\lb-6\obj\Debug\net8.0\lb-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSOS\source\repos\lb-6\lb-6\obj\Debug\net8.0\lb-6.AssemblyInfoInputs.cache
+C:\Users\FSOS\source\repos\lb-6\lb-6\obj\Debug\net8.0\lb-6.AssemblyInfo.cs
+C:\Users\FSOS\source\repos\lb-6\lb-6\obj\Debug\net8.0\lb-6.csproj.CoreCompileInputs.cache
+C:\Users\FSOS\source\repos\lb-6\lb-6\obj\Debug\net8.0\lb-6.sourcelink.json
+C:\Users\FSOS\source\repos\lb-6\lb-6\obj\Debug\net8.0\lb-6.dll
+C:\Users\FSOS\source\repos\lb-6\lb-6\obj\Debug\net8.0\refint\lb-6.dll
+C:\Users\FSOS\source\repos\lb-6\lb-6\obj\Debug\net8.0\lb-6.pdb
+C:\Users\FSOS\source\repos\lb-6\lb-6\obj\Debug\net8.0\lb-6.genruntimeconfig.cache
+C:\Users\FSOS\source\repos\lb-6\lb-6\obj\Debug\net8.0\ref\lb-6.dll
